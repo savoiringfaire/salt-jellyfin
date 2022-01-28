@@ -1,3 +1,3 @@
-salt:
+docker:
   pkg:
     - installed
