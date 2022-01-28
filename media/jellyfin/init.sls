@@ -1,0 +1,3 @@
+salt:
+  pkg:
+    - installed
